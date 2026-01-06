@@ -1,6 +1,6 @@
-# VetConnect — Legal Information
+# VetMedRec — Legal Information
 
-This repository contains the official legal documents for the VetConnect application.
+This repository contains the official legal documents for the VetMedRec application.
 
 ## Available documents
 - Privacy Policy
