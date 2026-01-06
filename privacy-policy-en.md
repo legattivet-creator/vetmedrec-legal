@@ -1,14 +1,14 @@
-Privacy Policy – VetConnect
+Privacy Policy VetMedRec -
 Last updated: January 4, 2026
-VetConnect respects your privacy and is committed to protecting users’ personal data.
-This Privacy Policy explains how we collect, use, store and protect information when you use the VetConnect application.
+VetMedRec respects your privacy and is committed to protecting users’ personal data.
+This Privacy Policy explains how we collect, use, store and protect information when you use the VetMedRec application.
 1. Information collected
 The app may collect the following information:
 •	user account data, such as email address and account identifier;
 •	information voluntarily provided about pets, including name, species, medical history, weight, exams, documents, images and videos;
 •	app usage data, such as accessed features and language preferences;
 •	information required to send notifications, reminders and alerts.
-VetConnect does not collect sensitive human health data.
+VetMedRec does not collect sensitive human health data.
 2. Use of information
 Collected information is used to:
 •	provide, operate and improve app features;
@@ -38,4 +38,4 @@ Continued use of the app after updates constitutes acceptance of the revised pol
 8. Contact
 For privacy-related questions or requests, please contact:
 Emerson Legatti
-suportevetconnect@gmail.com
+suporteVetMedRec@gmail.com
