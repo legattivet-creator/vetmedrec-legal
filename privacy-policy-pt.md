@@ -1,14 +1,14 @@
-Política de Privacidade – VetConnect
+Política de Privacidade VetMedRec -
 Última atualização: 04/01/2026
-O VetConnect respeita a sua privacidade e está comprometido com a proteção dos dados pessoais de seus usuários.
-Esta Política de Privacidade descreve como coletamos, utilizamos, armazenamos e protegemos as informações fornecidas ao utilizar o aplicativo VetConnect.
+O VetMedRec respeita a sua privacidade e está comprometido com a proteção dos dados pessoais de seus usuários.
+Esta Política de Privacidade descreve como coletamos, utilizamos, armazenamos e protegemos as informações fornecidas ao utilizar o aplicativo VetMedRec.
 1. Informações coletadas
 O aplicativo pode coletar as seguintes informações:
 •	dados de cadastro do usuário, como e-mail e identificador da conta;
 •	informações inseridas voluntariamente sobre animais, incluindo nome, espécie, histórico, peso, exames, documentos, imagens e vídeos;
 •	dados relacionados ao uso do aplicativo, como funcionalidades acessadas e preferências de idioma;
 •	informações necessárias para o envio de notificações, lembretes e alertas.
-O VetConnect não coleta dados sensíveis de saúde humana.
+O VetMedRec não coleta dados sensíveis de saúde humana.
 2. Uso das informações
 As informações coletadas são utilizadas para:
 •	fornecer, operar e melhorar as funcionalidades do aplicativo;
@@ -30,7 +30,7 @@ O usuário pode, a qualquer momento:
 •	solicitar a exclusão da conta e dos dados associados;
 •	revogar permissões de compartilhamento concedidas a outros usuários.
 6. Cookies e tecnologias semelhantes
-O VetConnect pode utilizar armazenamento local no dispositivo apenas para fins de funcionamento interno, como preferências de idioma e registros de consentimento.
+O VetMedRec pode utilizar armazenamento local no dispositivo apenas para fins de funcionamento interno, como preferências de idioma e registros de consentimento.
 Não utilizamos cookies para fins publicitários.
 7. Alterações nesta Política
 Esta Política de Privacidade pode ser atualizada periodicamente.
@@ -38,4 +38,4 @@ O uso contínuo do aplicativo após eventuais alterações será considerado com
 8. Contato
 Para dúvidas, solicitações ou esclarecimentos relacionados à privacidade e proteção de dados, entre em contato:
 Emerson Legatti
-suportevetconnect@gmail.com
+suporteVetMedRec@gmail.com
