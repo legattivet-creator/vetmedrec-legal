@@ -1,41 +1,74 @@
-Privacy Policy VetMedRec -
-Last updated: January 4, 2026
-VetMedRec respects your privacy and is committed to protecting users’ personal data.
-This Privacy Policy explains how we collect, use, store and protect information when you use the VetMedRec application.
-1. Information collected
-The app may collect the following information:
-•	user account data, such as email address and account identifier;
-•	information voluntarily provided about pets, including name, species, medical history, weight, exams, documents, images and videos;
-•	app usage data, such as accessed features and language preferences;
-•	information required to send notifications, reminders and alerts.
-VetMedRec does not collect sensitive human health data.
-2. Use of information
-Collected information is used to:
-•	provide, operate and improve app features;
-•	organize pets’ digital medical records and related information;
-•	generate reminders, alerts and notifications configured by the user;
-•	enable data sharing between users only with explicit authorization;
-•	ensure system security, integrity and proper operation.
-3. Data storage and security
-Data is stored on secure servers and protected by appropriate technical and organizational measures.
-We apply industry best practices to prevent unauthorized access, loss, alteration or misuse of information.
-4. Data sharing
-User data is not sold, rented or shared with third parties for commercial purposes.
-Information is shared only:
-•	when the user explicitly authorizes sharing with another user through the app’s features;
-•	when required by law or a competent authority.
-5. User rights
-Users may at any time:
-•	access, edit or delete their personal information;
-•	request account and associated data deletion;
-•	revoke previously granted sharing permissions.
-6. Cookies and similar technologies
-The app may use local device storage solely for internal functionality, such as language preferences and consent records.
-We do not use cookies for advertising purposes.
-7. Policy updates
-This Privacy Policy may be updated periodically.
-Continued use of the app after updates constitutes acceptance of the revised policy.
-8. Contact
-For privacy-related questions or requests, please contact:
+PRIVACY POLICY – VETMEDREC
+Last updated: January 12, 2026
+1. INTRODUCTION
+VetMedRec respects users’ privacy and is committed to protecting personal data processed through the application, in accordance with the General Data Protection Regulation (GDPR – Regulation (EU) 2016/679).
+This Privacy Policy explains how personal data is collected, used, stored and protected when using VetMedRec.
+2. DATA CONTROLLER
+The data controller is:
 Emerson Legatti
-suporteVetMedRec@gmail.com
+Natural person
+📧 suportevetmedrec@gmail.com
+Residence: Lisbon – Portugal
+3. DATA COLLECTED
+VetMedRec may collect the following data:
+3.1 User data
+•	email address;
+•	account identifier;
+•	language preferences and app settings.
+3.2 Voluntarily provided data
+•	pet information (name, species, weight, history);
+•	exams, lab results, documents, images and videos;
+•	veterinary notes and records.
+3.3 Technical data
+•	basic app usage data;
+•	information required to send notifications and alerts.
+ VetMedRec does not collect human health data.
+4. LEGAL BASIS FOR PROCESSING
+Personal data is processed based on the following GDPR legal grounds:
+•	performance of a contract (Art. 6(1)(b));
+•	user consent (Art. 6(1)(a));
+•	legitimate interest, when applicable, for system operation and security (Art. 6(1)(f)).
+5. PURPOSE OF PROCESSING
+Data is processed for the purposes of:
+•	providing and operating app features;
+•	organizing veterinary medical records;
+•	generating reminders, alerts and notifications;
+•	enabling data sharing with user consent;
+•	ensuring system security and integrity;
+•	complying with legal obligations.
+6. DATA STORAGE AND SECURITY
+Data is stored on secure servers using appropriate technical and organizational measures.
+Users acknowledge that no system is completely secure.
+7. DATA SHARING
+VetMedRec does not sell, rent or trade personal data.
+Data is shared only:
+•	when explicitly authorized by the user;
+•	when required by law or competent authorities.
+VetMedRec is not responsible for third-party use of data shared with user authorization.
+8. THIRD-PARTY SERVICES
+The application may rely on third-party services such as:
+•	cloud storage providers;
+•	push notification systems;
+•	mapping and geolocation services.
+VetMedRec does not control and is not responsible for third-party privacy practices.
+9. DATA SUBJECT RIGHTS
+Under GDPR, users have the right to:
+•	access their data;
+•	request correction or updates;
+•	request data deletion;
+•	object to or restrict processing;
+•	withdraw consent;
+•	request data portability, where applicable.
+Requests may be submitted via email.
+10. DATA RETENTION
+Data is retained while:
+•	the account remains active; or
+•	necessary for stated purposes; or
+•	legally required.
+Afterwards, data is deleted or anonymized.
+11. POLICY UPDATES
+This Privacy Policy may be updated periodically.
+Continued use of the app constitutes acceptance of the current version.
+12. CONTACT
+For privacy-related questions or requests:
+suportevetmedrec@gmail.com
