@@ -1,41 +1,74 @@
-Política de Privacidade VetMedRec -
-Última atualização: 04/01/2026
-O VetMedRec respeita a sua privacidade e está comprometido com a proteção dos dados pessoais de seus usuários.
-Esta Política de Privacidade descreve como coletamos, utilizamos, armazenamos e protegemos as informações fornecidas ao utilizar o aplicativo VetMedRec.
-1. Informações coletadas
-O aplicativo pode coletar as seguintes informações:
-•	dados de cadastro do usuário, como e-mail e identificador da conta;
-•	informações inseridas voluntariamente sobre animais, incluindo nome, espécie, histórico, peso, exames, documentos, imagens e vídeos;
-•	dados relacionados ao uso do aplicativo, como funcionalidades acessadas e preferências de idioma;
-•	informações necessárias para o envio de notificações, lembretes e alertas.
-O VetMedRec não coleta dados sensíveis de saúde humana.
-2. Uso das informações
-As informações coletadas são utilizadas para:
-•	fornecer, operar e melhorar as funcionalidades do aplicativo;
-•	organizar o prontuário digital e os registros dos animais;
-•	gerar lembretes, alertas e notificações configurados pelo usuário;
-•	permitir o compartilhamento de informações entre usuários, somente mediante autorização explícita;
-•	garantir a segurança, integridade e correto funcionamento do sistema.
-3. Armazenamento e segurança
-Os dados são armazenados em servidores seguros e protegidos por medidas técnicas e organizacionais adequadas.
-Empregamos boas práticas de segurança para prevenir acesso não autorizado, perda, alteração ou uso indevido das informações.
-4. Compartilhamento de dados
-Os dados dos usuários não são vendidos, alugados ou compartilhados com terceiros para fins comerciais.
-O compartilhamento de informações ocorre apenas:
-•	quando o próprio usuário decide compartilhar dados com outro usuário por meio das funcionalidades do aplicativo;
-•	quando exigido por obrigação legal ou autoridade competente.
-5. Direitos do usuário
-O usuário pode, a qualquer momento:
-•	acessar, editar ou excluir suas informações pessoais;
-•	solicitar a exclusão da conta e dos dados associados;
-•	revogar permissões de compartilhamento concedidas a outros usuários.
-6. Cookies e tecnologias semelhantes
-O VetMedRec pode utilizar armazenamento local no dispositivo apenas para fins de funcionamento interno, como preferências de idioma e registros de consentimento.
-Não utilizamos cookies para fins publicitários.
-7. Alterações nesta Política
-Esta Política de Privacidade pode ser atualizada periodicamente.
-O uso contínuo do aplicativo após eventuais alterações será considerado como aceitação da versão atualizada.
-8. Contato
-Para dúvidas, solicitações ou esclarecimentos relacionados à privacidade e proteção de dados, entre em contato:
+POLÍTICA DE PRIVACIDADE - VETMEDREC
+Última atualização: 12 de janeiro de 2026
+1. INTRODUÇÃO
+O VetMedRec respeita a privacidade dos seus usuários e está comprometido com a proteção dos dados pessoais tratados por meio do aplicativo, em conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR – Regulamento (UE) 2016/679).
+Esta Política de Privacidade descreve de forma clara como os dados são coletados, utilizados, armazenados e protegidos ao utilizar o aplicativo VetMedRec.
+2. CONTROLADOR DOS DADOS
+O controlador dos dados pessoais tratados por meio do aplicativo é:
 Emerson Legatti
-suporteVetMedRec@gmail.com
+Pessoa física
+📧 suportevetmedrec@gmail.com
+Residência: Lisboa – Portugal
+3. DADOS COLETADOS
+O VetMedRec poderá coletar os seguintes dados:
+3.1 Dados do usuário
+endereço de e-mail;
+identificador da conta;
+preferências de idioma e configurações do aplicativo.
+3.2 Dados inseridos voluntariamente
+informações sobre animais (nome, espécie, peso, histórico);
+exames, análises laboratoriais, documentos, imagens e vídeos;
+registros de atendimentos e anotações.
+3.3 Dados técnicos
+dados básicos de uso do aplicativo;
+informações necessárias para envio de notificações e alertas.
+ O VetMedRec não coleta dados de saúde humana.
+4. BASE LEGAL PARA O TRATAMENTO
+O tratamento dos dados pessoais ocorre com fundamento nas seguintes bases legais previstas no GDPR:
+execução do contrato (art. 6.º, n.º 1, alínea b);
+consentimento do titular (art. 6.º, n.º 1, alínea a);
+interesse legítimo, quando aplicável, para funcionamento e segurança do sistema (art. 6.º, n.º 1, alínea f).
+5. FINALIDADE DO TRATAMENTO
+Os dados são tratados para as seguintes finalidades:
+fornecer e operar as funcionalidades do aplicativo;
+organizar prontuários e históricos veterinários;
+gerar lembretes, alertas e notificações configurados pelo usuário;
+permitir compartilhamento de informações mediante consentimento;
+garantir segurança, integridade e funcionamento do sistema;
+cumprir obrigações legais.
+6. ARMAZENAMENTO E SEGURANÇA DOS DADOS
+Os dados são armazenados em servidores seguros, adotando-se medidas técnicas e organizacionais adequadas para proteção contra acesso não autorizado, perda, alteração ou uso indevido.
+Apesar dos esforços de segurança, o usuário reconhece que nenhum sistema é absolutamente seguro.
+7. COMPARTILHAMENTO DE DADOS
+O VetMedRec não vende, aluga ou comercializa dados pessoais.
+O compartilhamento ocorre apenas:
+quando o próprio usuário autoriza explicitamente o compartilhamento com outros usuários;
+quando exigido por obrigação legal ou autoridade competente.
+O VetMedRec não se responsabiliza pelo uso dos dados por terceiros após compartilhamento autorizado pelo usuário.
+8. SERVIÇOS DE TERCEIROS
+O aplicativo pode integrar serviços de terceiros, tais como:
+serviços de armazenamento em nuvem;
+sistemas de notificações push;
+serviços de mapas e geolocalização.
+O VetMedRec não controla as políticas de privacidade desses terceiros e não se responsabiliza por falhas decorrentes de seus serviços, recomendando que o usuário consulte suas respectivas políticas.
+9. DIREITOS DO TITULAR DOS DADOS
+Nos termos do GDPR, o usuário pode, a qualquer momento:
+solicitar acesso aos seus dados;
+solicitar retificação ou atualização;
+solicitar a exclusão dos dados;
+solicitar limitação ou oposição ao tratamento;
+revogar consentimentos concedidos;
+solicitar portabilidade dos dados, quando aplicável.
+Solicitações podem ser feitas pelo e-mail de contato.
+10. RETENÇÃO DOS DADOS
+Os dados serão mantidos enquanto:
+a conta estiver ativa; ou
+forem necessários para as finalidades descritas; ou
+houver obrigação legal de retenção.
+Após esse período, os dados serão eliminados ou anonimizados.
+11. ALTERAÇÕES DESTA POLÍTICA
+Esta Política de Privacidade poderá ser atualizada periodicamente.
+O uso contínuo do aplicativo após alterações implica aceitação da versão vigente.
+12. CONTATO
+Para dúvidas, solicitações ou exercício de direitos relacionados à privacidade:
+suportevetmedrec@gmail.com
