@@ -18,6 +18,7 @@ O VetMedRec é disponibilizado “no estado em que se encontra”, não havendo 
 O usuário reconhece que o aplicativo pode sofrer interrupções, atrasos ou falhas decorrentes de fatores técnicos ou de terceiros.
 5. AGENDA, LEMBRETES E ALERTAS
 As funcionalidades de agenda, lembretes e alertas têm caráter meramente auxiliar, destinando-se exclusivamente à organização do usuário.
+A agenda disponibilizada no aplicativo possui caráter pessoal e organizacional, não constituindo sistema de marcação de consultas clínicas ou profissionais.
 O usuário reconhece que:
 •	os alertas dependem de permissões do dispositivo, sistema operacional, conectividade e serviços de terceiros;
 •	o VetMedRec não garante o envio, recebimento ou visualização de notificações.
@@ -48,4 +49,4 @@ Fica eleito o foro da Comarca de Lisboa – Portugal, com exclusão de qualquer 
 O aplicativo é atualmente operado por pessoa física, podendo futuramente ser transferido para pessoa jurídica, sem necessidade de novo aceite pelo usuário.
 13. CONTATO
 Emerson Legatti
- suportevetmedrec@gmail.com
+suportevetmedrec@gmail.com
