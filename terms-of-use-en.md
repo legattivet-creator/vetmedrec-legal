@@ -15,9 +15,11 @@ ensuring that all provided information is accurate and up to date;
 all activities performed through their account.
 4. SERVICE NATURE AND DISCLAIMER OF WARRANTIES
 VetMedRec is provided “as is”, without any warranty of uninterrupted operation, error-free performance or compatibility.
+
 Users acknowledge that service interruptions, delays or failures may occur due to technical issues or third-party services.
 5. SCHEDULE, REMINDERS AND ALERTS
 Scheduling, reminder and alert features are supportive tools only, intended to assist user organization.
+The schedule provided in the application is of a personal and organizational nature and does not constitute a clinical or professional appointment booking system.
 Users acknowledge that:
 notifications depend on device permissions, operating systems, connectivity and third-party services;
 VetMedRec does not guarantee notification delivery or visibility.
