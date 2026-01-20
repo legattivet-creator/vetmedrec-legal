@@ -1,8 +1,9 @@
 PRIVACY POLICY – VETMEDREC
-Last updated: January 12, 2026
+Last updated: January 20, 2026
 1. INTRODUCTION
 VetMedRec respects users’ privacy and is committed to protecting personal data processed through the application, in accordance with the General Data Protection Regulation (GDPR – Regulation (EU) 2016/679).
 This Privacy Policy explains how personal data is collected, used, stored and protected when using VetMedRec.
+This Policy is also aligned with the Brazilian General Data Protection Law (LGPD – Law No. 13,709/2018), where applicable.
 2. DATA CONTROLLER
 The data controller is:
 Emerson Legatti
@@ -50,6 +51,7 @@ The application may rely on third-party services such as:
 •	cloud storage providers;
 •	push notification systems;
 •	mapping and geolocation services.
+Some third-party services may involve international data transfers, always in compliance with GDPR safeguards.
 VetMedRec does not control and is not responsible for third-party privacy practices.
 9. DATA SUBJECT RIGHTS
 Under GDPR, users have the right to:
@@ -69,6 +71,10 @@ Afterwards, data is deleted or anonymized.
 11. POLICY UPDATES
 This Privacy Policy may be updated periodically.
 Continued use of the app constitutes acceptance of the current version.
-12. CONTACT
+12. CHILDREN’S DATA
+VetMedRec is not intended for users under 18 years of age. We do not knowingly collect personal data from minors. If such data is identified, it will be promptly deleted.
+13. LIMITATION OF LIABILITY
+VetMedRec is an information management tool and does not replace professional veterinary advice, diagnosis, or treatment. All information entered is the responsibility of the user.
+14. CONTACT
 For privacy-related questions or requests:
 suportevetmedrec@gmail.com
