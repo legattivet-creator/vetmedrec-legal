@@ -1,8 +1,8 @@
 TERMS OF USE – VETMEDREC
-Last updated: January 12, 2026
+Last updated: January 20, 2026
 1. ACCEPTANCE OF TERMS
 By using the VetMedRec application, the user confirms that they have read, understood and fully agreed to these Terms of Use.
-If the user does not agree with any provision, they must immediately stop using the application.
+If the user does not agree with any provision, they must immediately stop using the application. Use of the application is also subject to the Privacy Policy, which forms an integral part of these Terms.
 2. ABOUT THE APPLICATION
 VetMedRec is an organizational and informational application designed to store, organize and access information related to pets’ health and routine, including medical records, documents, logs, reminders and histories.
 The application does not replace, under any circumstances, in-person veterinary consultations, clinical diagnoses, professional evaluations or veterinary medical advice.
@@ -45,9 +45,15 @@ VetMedRec may suspend or terminate accounts that violate these Terms, without pr
 Users may request account termination at any time.
 11. GOVERNING LAW AND JURISDICTION
 These Terms of Use are governed by the laws of the Portuguese Republic.
-The Lisbon District Court, Portugal, shall have exclusive jurisdiction to resolve any disputes.
+The Lisbon District Court, Portugal, shall have exclusive jurisdiction to resolve any disputes without prejudice to mandatory consumer protection and data protection laws that may apply.
 12. OWNERSHIP
 The application is currently operated by a natural person and may be transferred to a legal entity in the future without requiring renewed consent.
-13. CONTACT
+13. MINIMUM AGE
+VetMedRec is intended for users aged 18 or older. By using the application, the user confirms that they have the legal capacity to accept these Terms.
+14. APPLICATION MODIFICATIONS
+VetMedRec reserves the right to modify, suspend or discontinue any feature of the application, temporarily or permanently, with or without prior notice.
+15. MISUSE
+Users are prohibited from using the application for unlawful, fraudulent or harmful purposes, attempting unauthorized access, compromising system security or interfering with the app’s operation.
+16. CONTACT
 Emerson Legatti
 suportevetmedrec@gmail.com
