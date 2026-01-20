@@ -1,8 +1,9 @@
 POLÍTICA DE PRIVACIDADE - VETMEDREC
-Última atualização: 12 de janeiro de 2026
+Última atualização: 20 de janeiro de 2026
 1. INTRODUÇÃO
 O VetMedRec respeita a privacidade dos seus usuários e está comprometido com a proteção dos dados pessoais tratados por meio do aplicativo, em conformidade com o Regulamento Geral sobre a Proteção de Dados (GDPR – Regulamento (UE) 2016/679).
 Esta Política de Privacidade descreve de forma clara como os dados são coletados, utilizados, armazenados e protegidos ao utilizar o aplicativo VetMedRec.
+Esta Política também está em conformidade com a Lei Geral de Proteção de Dados Pessoais (LGPD – Lei nº 13.709/2018), aplicável aos usuários localizados no Brasil.
 2. CONTROLADOR DOS DADOS
 O controlador dos dados pessoais tratados por meio do aplicativo é:
 Emerson Legatti
@@ -51,6 +52,7 @@ serviços de armazenamento em nuvem;
 sistemas de notificações push;
 serviços de mapas e geolocalização.
 O VetMedRec não controla as políticas de privacidade desses terceiros e não se responsabiliza por falhas decorrentes de seus serviços, recomendando que o usuário consulte suas respectivas políticas.
+Alguns serviços de terceiros podem implicar transferência internacional de dados, sempre observando garantias adequadas exigidas pelo GDPR.
 9. DIREITOS DO TITULAR DOS DADOS
 Nos termos do GDPR, o usuário pode, a qualquer momento:
 solicitar acesso aos seus dados;
@@ -69,6 +71,10 @@ Após esse período, os dados serão eliminados ou anonimizados.
 11. ALTERAÇÕES DESTA POLÍTICA
 Esta Política de Privacidade poderá ser atualizada periodicamente.
 O uso contínuo do aplicativo após alterações implica aceitação da versão vigente.
-12. CONTATO
+12. DADOS DE MENORES
+O VetMedRec não se destina a menores de 18 anos. Não coletamos intencionalmente dados pessoais de menores. Caso seja identificado o tratamento indevido de dados de menores, tais dados serão removidos imediatamente.
+13. LIMITAÇÃO DE RESPONSABILIDADE
+O VetMedRec é uma ferramenta de organização e gestão de informações. O aplicativo não substitui avaliações, diagnósticos ou orientações fornecidas por médicos veterinários. As informações registradas são de responsabilidade do usuário.
+14. CONTATO
 Para dúvidas, solicitações ou exercício de direitos relacionados à privacidade:
 suportevetmedrec@gmail.com
