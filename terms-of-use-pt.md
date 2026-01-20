@@ -1,8 +1,7 @@
-TERMOS DE USO - VETMEDREC
-Última atualização: 12 de janeiro de 2026
+Última atualização: 20 de janeiro de 2026
 1. ACEITAÇÃO DOS TERMOS
 Ao utilizar o aplicativo VetMedRec, o usuário declara que leu, compreendeu e concorda integralmente com os presentes Termos de Uso.
-Caso não concorde com qualquer disposição aqui prevista, o usuário deverá interromper imediatamente a utilização do aplicativo.
+Caso não concorde com qualquer disposição aqui prevista, o usuário deverá interromper imediatamente a utilização do aplicativo. O uso do aplicativo também está sujeito à Política de Privacidade, que é parte integrante destes Termos.
 2. SOBRE O APLICATIVO
 O VetMedRec é um aplicativo de natureza organizacional e informativa, destinado à organização, armazenamento e consulta de informações relacionadas à saúde e à rotina de animais, incluindo prontuários, documentos, registros, lembretes e históricos.
 O aplicativo não substitui, em nenhuma hipótese, consulta veterinária presencial, diagnóstico clínico, avaliação profissional ou qualquer forma de orientação médico-veterinária.
@@ -44,9 +43,15 @@ O VetMedRec poderá suspender ou encerrar contas que violem estes Termos, sem av
 O usuário poderá solicitar o encerramento de sua conta a qualquer momento.
 11. LEGISLAÇÃO APLICÁVEL E FORO
 Estes Termos de Uso são regidos pelas leis da República Portuguesa.
-Fica eleito o foro da Comarca de Lisboa – Portugal, com exclusão de qualquer outro, para dirimir eventuais controvérsias.
+Fica eleito o foro da Comarca de Lisboa – Portugal, com exclusão de qualquer outro, para dirimir eventuais controvérsias sem prejuízo da aplicação de normas obrigatórias de proteção ao consumidor e proteção de dados eventualmente aplicáveis.
 12. TITULARIDADE
 O aplicativo é atualmente operado por pessoa física, podendo futuramente ser transferido para pessoa jurídica, sem necessidade de novo aceite pelo usuário.
-13. CONTATO
+13. IDADE MÍNIMA
+O uso do VetMedRec é permitido apenas a pessoas maiores de 18 anos. Ao utilizar o aplicativo, o usuário declara possuir capacidade legal para aceitar estes Termos.
+14. MODIFICAÇÕES DO APLICATIVO
+O VetMedRec reserva-se o direito de modificar, suspender ou descontinuar, temporária ou permanentemente, qualquer funcionalidade do aplicativo, mediante ou sem aviso prévio.
+15. USO INDEVIDO
+É vedado ao usuário utilizar o aplicativo para fins ilegais, fraudulentos ou que violem direitos de terceiros, bem como tentar acessar áreas restritas, comprometer a segurança do sistema ou interferir no funcionamento do aplicativo.
+16. CONTATO
 Emerson Legatti
-suportevetmedrec@gmail.com
+ suportevetmedrec@gmail.com
